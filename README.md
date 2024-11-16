@@ -76,6 +76,6 @@ Then you've found your community. We're looking for developers who:
 ## Getting Started
 [Join our Discord](https://discord.gg/A7GaFb9v)
 [Contributing guidelines]
-[Current projects]
+[Current Projects](projects.md)
 
 **Remember: Simple is beautiful. Fast is feature. Efficiency matters.**
