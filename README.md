@@ -74,8 +74,11 @@ Then you've found your community. We're looking for developers who:
 - Want to make a difference in the software world
 
 ## Getting Started
+
 [Join our Discord](https://discord.gg/A7GaFb9v)
+
 [Contributing guidelines]
+
 [Current Projects](projects.md)
 
-**Remember: Simple is beautiful. Fast is feature. Efficiency matters.**
+Remember: Simple is beautiful. Fast is feature. Efficiency matters.
