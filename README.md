@@ -74,8 +74,7 @@ Then you've found your community. We're looking for developers who:
 - Want to make a difference in the software world
 
 ## Getting Started
-
-[Links to Discord/Matrix/Community platforms]
+[Join our Discord](https://discord.gg/A7GaFb9v)
 [Contributing guidelines]
 [Current projects]
 
